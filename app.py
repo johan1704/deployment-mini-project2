@@ -21,7 +21,7 @@ def predict_default(features):
 def main():
 
     html_temp = """
-        <div style = "background-color: #32e0c4; padding: 10px;">
+        <div style = "background-color: blue; padding: 10px;">
             <center><h1>CREDIT CARD DEFAULT PREDICTION WEBAPP</h1></center>
         </div><br>
     """
