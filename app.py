@@ -22,7 +22,7 @@ def main():
 
     html_temp = """
         <div style = "background-color: blue; padding: 10px;">
-            <center><h1>CREDIT CARD DEFAULT PREDICTION WEBAPP</h1></center>
+            <center><h1>CREDIT CARD DEFAULT PREDICTOR</h1></center>
         </div><br>
     """
     st.markdown(html_temp, unsafe_allow_html=True)
