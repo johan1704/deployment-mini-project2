@@ -26,6 +26,8 @@ def main():
         </div><br>
     """
     st.markdown(html_temp, unsafe_allow_html=True)
+    
+    st.markdown('<style>body{background-color: orange;}</style>',unsafe_allow_html=True)
 
     LIMIT_BAL = st.text_input("Limited Balance (in New Taiwanese (NT) dollar)")
     
