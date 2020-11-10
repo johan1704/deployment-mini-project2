@@ -92,4 +92,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-<center><h3>developed by Johan</h3></center>
+html_temp = """
+      
+            <center><h3>developed by Johan Intern at Technocolabs </h3></center>
+        """
