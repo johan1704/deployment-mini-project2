@@ -92,7 +92,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-html_temp = """
-      
+html_temp1 = """    
             <center><h3>developed by Johan Intern at Technocolabs </h3></center>
         """
+st.markdown(html_temp1,unsafe_allow_html=True)
